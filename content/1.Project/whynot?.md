@@ -1,5 +1,5 @@
 ---
-title: onmyown
+title:
 ---
 
 **o**n**m**y**o**wn 너무 기니까 앞글자를 따서 omo 라고 부르기로 했다.
